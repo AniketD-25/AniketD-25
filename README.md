@@ -6,20 +6,15 @@
 
 <h3 align="center">Eager and highly motivated Java Developer with good expertise in web API design. Passionate about application development. Flexible, Detail-Oriented and the ability to finish projects within a tight timeframe.</h3>
 
-<!--
-**AniketD-25/AniketD-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ - 🔭 I’m currently Studying at [The Kiran Academy](https://thekiranacademy.com/)
+- 🌱 I’m currently learning **Spring Boot......**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JAVA, MySQL, Spring Boot ,Hibernate.**
+- 📫 How to reach me: **aniketdeshmukh25799@gmail.com**
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/AniketD-25?tab=repositories)
+- ⚡ Fun fact: I never shut down my PC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 🤝 Connect with me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://aniketd-25.github.io)
